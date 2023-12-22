@@ -164,8 +164,9 @@ for (item of buttons) {
 }
 ```
 ## OUTPUT:
-![Alt text](<Screenshot (55).png>)
-![Alt text](<Screenshot (56).png>)
+
+![Screenshot (55)](https://github.com/Preethijgan/Calc/assets/144870652/b3ade895-47c3-40ba-a966-9c6554bb6f4e)
+![Screenshot (56)](https://github.com/Preethijgan/Calc/assets/144870652/211c5c28-0172-4996-9341-d8dc0dc64f8d)
 
 
 
